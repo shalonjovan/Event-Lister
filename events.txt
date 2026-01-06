@@ -1,0 +1,368 @@
+==================================================
+Event Name        : AI Integration in 3D Printing Technology - From Basics to Advanced Applications 2025
+Event Type        : Conference
+Institution       : Madras Institute of Technology Anna University
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-07
+    End Date      : 2026-01-08
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/AI 3D printing poster-2025121701.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/1701-ai-integration-3d-printing-technology-from-basics-to-advanced-applications-2025-madras-institute-anna-university-workshop-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Cellular Toxicology Studies 2026
+Event Type        : Conference
+Institution       : Sathyabama Institute of Science and Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-10
+    End Date      : 2026-01-10
+
+Description       : Online Training Program
+Poster            : https://www.knowafest.com/assets/img/Eventlogo.gif
+Event Link        : https://www.knowafest.com/events/2025/12/2001-cellular-toxicology-studies-2026-sathyabama-institute-science-technology-online-training-program-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : One Week Internship on Python Programming (online Mode) 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-19
+    End Date      : 2026-01-25
+
+Description       : Internship
+Poster            : https://www.knowafest.com/files/uploads/14-2025122415.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2415-one-week-internship-python-programming-online-mode-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : DATAXSCAPE 2K26
+Event Type        : Conference
+Institution       : Panimalar Engineering College
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-21
+    End Date      : 2026-01-22
+
+Description       : Hackathon
+Poster            : https://www.knowafest.com/files/uploads/DATAXSCAPEBROCHURE (1)-2025120506.jpeg
+Event Link        : https://www.knowafest.com/events/2025/12/0506-dataxscape-2k26-panimalar-engineering-college-hackathon-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : NeuroVerse&#039;26
+Event Type        : Conference
+Institution       : ESIC Medical College and Hospital
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-21
+    End Date      : 2026-01-24
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/assets/img/Eventlogo.gif
+Event Link        : https://www.knowafest.com/events/2025/12/2906-neuroverse-26-esic-medical-college-hospital-international-conference-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : AI Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-24
+    End Date      : 2026-01-24
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/5-2025122406.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2406-ai-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : IoT and Embedded Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-24
+    End Date      : 2026-01-24
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/6-2025122407.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2407-iot-embedded-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Python for ML Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-25
+    End Date      : 2026-01-25
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/7-2025122408.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2408-python-ml-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : IoT with Robotics Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-25
+    End Date      : 2026-01-25
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/8-2025122409.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2409-iot-with-robotics-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : INTERNATIONAL CONFERENCE Shaping the Future of Healthcare: Integrating AI, IoT and Data Science Innovations 2026
+Event Type        : Conference
+Institution       : Rajalakshmi Institute of Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-29
+    End Date      : 2026-01-30
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/assets/img/Eventlogo.gif
+Event Link        : https://www.knowafest.com/events/2025/12/1702-international-conference-shaping-future-healthcare-integrating-ai-iot-data-science-innovations-2026-rajalakshmi-institute-technology-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Marine Splash 2k26
+Event Type        : Conference
+Institution       : Saveetha Institute of Medical and Technical Sciences Engineering
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-29
+    End Date      : 2026-01-30
+
+Description       : Cultural Fest
+Poster            : https://www.knowafest.com/files/uploads/Marine Splash 2026.jpg
+Event Link        : https://www.knowafest.com/events/2026/01/0201-marine-splash-2k26-saveetha-institute-medical-technical-sciences-engineering-cultural-fest-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : One day Hands on Business-Oriented workshop on Biodiesel Production and Characterization as per ASTM Standards 2026
+Event Type        : Conference
+Institution       : Sathyabama Institute of Science and Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-31
+    End Date      : 2026-01-31
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/assets/img/Eventlogo.gif
+Event Link        : https://www.knowafest.com/events/2025/12/2002-one-day-hands-business-oriented-workshop-biodiesel-production-characterization-as-per-astm-standards-2026-sathyabama-institute-science-technology-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : AI and AI tools Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-31
+    End Date      : 2026-01-31
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/9-2025122410.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2410-ai-tools-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : IoT Automation using Raspberry Pi Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-01-31
+    End Date      : 2026-01-31
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/10-2025122411.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2411-iot-automation-using-raspberry-pi-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Agentic AI Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-02-01
+    End Date      : 2026-02-01
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/11-2025122412.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2412-agentic-ai-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : AI &amp; LLM Workshop 2026
+Event Type        : Conference
+Institution       : Top Engineers
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-02-01
+    End Date      : 2026-02-01
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/12-2025122413.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2413-ai-llm-workshop-2026-top-engineers-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : TRIDENT 2K26
+Event Type        : Conference
+Institution       : Velammal Institute of Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-02-06
+    End Date      : 2026-02-06
+
+Description       : National Level Technical Symposium
+Poster            : https://www.knowafest.com/files/uploads/Trident 2k26 technical symposium.jpeg
+Event Link        : https://www.knowafest.com/events/2025/12/1904-trident-2k26-velammal-institute-technology-national-level-technical-symposium-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Hands-on Training on Cancer Cell Culture Techniques 2026
+Event Type        : Conference
+Institution       : Sathyabama Institute of Science and Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-02-06
+    End Date      : 2026-02-07
+
+Description       : Workshop
+Poster            : https://www.knowafest.com/files/uploads/Cancer cell culture - Feb - 6,7-2026010103.jpeg
+Event Link        : https://www.knowafest.com/events/2026/01/0103-hands-training-cancer-cell-culture-techniques-2026-sathyabama-institute-science-technology-workshop-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : TECHNOFEST 2026
+Event Type        : Conference
+Institution       : Anand Institute of Higher Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-02-12
+    End Date      : 2026-02-13
+
+Description       : Technical Fest
+Poster            : https://www.knowafest.com/files/uploads/IMG-20260103-WA0002 (3)-2026010312.jpg
+Event Link        : https://www.knowafest.com/events/2026/01/0312-technofest-2026-anand-institute-higher-technology-technical-fest-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : Second International Conference on Innovations in Materials Science, Technology, Engineering, and Management for Sustainable Development IMSTEM 2026
+Event Type        : Conference
+Institution       : St. Joseph&#039;s College of Engineering
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-03-20
+    End Date      : 2026-03-21
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/files/uploads/IMSTEM 2026 - March_page-0001.jpg
+Event Link        : https://www.knowafest.com/events/2026/01/0305-second-international-conference-innovations-materials-science-technology-engineering-management-sustainable-development-imstem-2026-st-joseph-s-college-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : ICRTET-2026 (International Conference on Recent Trends in Engineering and Technology)
+Event Type        : Conference
+Institution       : Gojan School of Business and Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-03-25
+    End Date      : 2026-03-26
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/files/uploads/WhatsApp Image 2025-12-17 at 7.51.58 PM-2025121802.jpeg
+Event Link        : https://www.knowafest.com/events/2025/12/1802-icrtet-2026-international-conference-recent-trends-engineering-technology-gojan-school-business-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : 7th International Conference on Computational Intelligence and Industry 5.0
+Event Type        : Conference
+Institution       : Velammal Institute of Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-03-27
+    End Date      : 2026-03-28
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/files/uploads/fest-2025112619.jpg
+Event Link        : https://www.knowafest.com/events/2025/11/2619-7th-international-conference-computational-intelligence-industry-5-0-velammal-institute-technology-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
+==================================================
+Event Name        : ICCII 26 - International Conference on Computational Intelligence &amp; Industry 5.0
+Event Type        : Conference
+Institution       : Velammal Institute of Technology
+Location          : Chennai
+
+Event Days:
+  - Start Date    : 2026-03-27
+    End Date      : 2026-03-28
+
+Description       : International Conference
+Poster            : https://www.knowafest.com/files/uploads/fest-2025122701.jpg
+Event Link        : https://www.knowafest.com/events/2025/12/2701-iccii-26-international-conference-computational-intelligence-industry-5-0-velammal-institute-technology-chennai
+Source            : knowafest_chennai
+Confidence        : 0.90
+==================================================
