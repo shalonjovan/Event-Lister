@@ -1,20 +1,4 @@
 ==================================================
-Event Name        : AI Integration in 3D Printing Technology - From Basics to Advanced Applications 2025
-Event Type        : Conference
-Institution       : Madras Institute of Technology Anna University
-Location          : Chennai
-
-Event Days:
-  - Start Date    : 2026-01-07
-    End Date      : 2026-01-08
-
-Description       : Workshop
-Poster            : https://www.knowafest.com/files/uploads/AI 3D printing poster-2025121701.jpg
-Event Link        : https://www.knowafest.com/events/2025/12/1701-ai-integration-3d-printing-technology-from-basics-to-advanced-applications-2025-madras-institute-anna-university-workshop-chennai
-Source            : knowafest_chennai
-Confidence        : 0.90
-==================================================
-==================================================
 Event Name        : Cellular Toxicology Studies 2026
 Event Type        : Conference
 Institution       : Sathyabama Institute of Science and Technology

@@ -4,7 +4,7 @@ from datetime import date
 
 # Import scrapers so they register themselves
 import scrapers.knowafest  # noqa: F401
-
+import scrapers.unstop
 
 OUTPUT_FILE = "events.txt"
 
